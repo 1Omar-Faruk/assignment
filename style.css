@@ -1,0 +1,119 @@
+h1{
+font-family: 'bebas''neue';   
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 80px;
+    
+}
+body{
+    
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.orange-highlight{
+    color: #f37c4cd2;
+}
+.hire-me{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+#text-align{
+            
+            font-style: normal;
+            font-weight: bold;
+            font-size: 48px;
+            line-height: 48px;
+            text-align: center;
+}
+.images{
+    position: absolute;
+width: 343.54px;
+height: 213.23px;
+left: 148px;
+top: 1469px;
+}
+#float1{
+    position: absolute;
+    width: 343.54px;
+    height: 213.23px;
+    left: 148px;
+    top: 1469px;
+}
+#float2{
+    position: absolute;
+width: 339px;
+height: 213px;
+left: 551px;
+top: 1469px;
+
+}
+#float3{
+    position: absolute;
+width: 336px;
+height: 209px;
+left: 951px;
+top: 1472px;
+}
+h2{
+    font-family: 'roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    height: 80%;
+    background-color: white;
+}
+.head-align{
+    text-align: center;
+   
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 64px;
+    
+}
+.backround{
+    background-image: url(images/backrounnd.png);
+   background-repeat: no-repeat;
+   background-size: 60%;
+   background-position: top;
+   padding: 50px;
+}
+}
+.white-highlight{
+            color: white;
+}
+#footer-color{
+    color:#696871;
+    text-align: center;
+}
